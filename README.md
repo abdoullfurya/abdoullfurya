@@ -30,4 +30,4 @@ Here's a quick summary about me:
 
 💼 Job interests: Software Engineer, Frontend Engineer, Cloud Engineer(Intern or Junior level).
 
-📫 You can view my resume and contact me by emailing abdoulfurya@gmail.com@gmail.com.
+📫 You can view my resume and contact me by emailing abdoulfurya@gmail.com@
